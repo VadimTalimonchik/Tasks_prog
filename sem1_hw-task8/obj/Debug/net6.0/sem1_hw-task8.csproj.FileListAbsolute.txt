@@ -1,0 +1,15 @@
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\bin\Debug\net6.0\sem1_hw-task8.exe
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\bin\Debug\net6.0\sem1_hw-task8.deps.json
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\bin\Debug\net6.0\sem1_hw-task8.runtimeconfig.json
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\bin\Debug\net6.0\sem1_hw-task8.dll
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\bin\Debug\net6.0\sem1_hw-task8.pdb
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.csproj.AssemblyReference.cache
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.AssemblyInfoInputs.cache
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.AssemblyInfo.cs
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.csproj.CoreCompileInputs.cache
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.dll
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\refint\sem1_hw-task8.dll
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.pdb
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\sem1_hw-task8.genruntimeconfig.cache
+E:\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Tasks_prog\sem1_hw-task8\obj\Debug\net6.0\ref\sem1_hw-task8.dll

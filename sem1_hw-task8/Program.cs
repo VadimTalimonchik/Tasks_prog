@@ -6,13 +6,17 @@
 все чётные числа от 1 до N
 */
 
+//for (int i = 1; i < 4; i++) Console.WriteLine(i);
+
 Console.WriteLine("Введите число: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
-//for (int i = 1; i < 4; i++) Console.WriteLine(i);
-for (int i = 1; i < numberA; i++);
-if (numberA % 2 == 0)
+int i = 1;
+while (i <= numberA)
 {
-    Console.WriteLine(numberA);
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i + " - четное число в составе числа " + numberA);
+    }
+    i++;
 }
-//if (numberA % 2 == 0)
-//    Console.WriteLine("Вы ввели ЧЕТНОЕ число!");
+//for (int i = 1; i < numberA; i++) Console.WriteLine(i);
