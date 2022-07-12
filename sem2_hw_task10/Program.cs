@@ -32,7 +32,7 @@ Console.WriteLine(secondnumber / 10);
 
 int something (int start, int finish)
 {
-    int num = new Random().Next(100, 999);
+    int num = new Random().Next(start, finish);
     Console.WriteLine(num);
     int thirdnumber = num % 10;
     int firstnumber = num / 100;
